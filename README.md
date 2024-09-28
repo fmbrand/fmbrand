@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizul Islam Fahim</h1>
-<h3 align="center">A passionate Data analyst and SQA Engineer from Bangladesh</h3>
+<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 <img align="center" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.30fuPl3x9KvMB2ZYW0k7owHaEK&pid=Api&P=0&h=220">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmbrand&label=Profile%20views&color=0e75b6&style=flat" alt="fmbrand" /> </p>
 
