@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmbrand" alt="fmbrand" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Testops**
 
 - 💬 Ask me about **SQA and Data Visualization**
 
 - 📫 How to reach me **faizulislam837@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1WpCbyplo7t4eu_kmXyDxvXB4wKa6fm_-](https://drive.google.com/drive/u/0/folders/1WpCbyplo7t4eu_kmXyDxvXB4wKa6fm_-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
