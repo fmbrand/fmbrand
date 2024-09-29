@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmbrand" alt="fmbrand" /></a> </p>
 
-- 🌱 I’m currently learning **Testops**
+- 🌱 I’m currently learning **TestOps**
 
-- 💬 Ask me about **SQA and Data Visualization**
+- 💬 Ask me about **SQA and TestOps**
 
 - 📫 How to reach me **faizulislam837@gmail.com**
 
