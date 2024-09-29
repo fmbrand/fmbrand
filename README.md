@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizul Islam Fahim</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
-<img align="center" alt="Coding" width="900" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Mayursuryanarayan%2Ftestops-ed3afa323d99&psig=AOvVaw11lyITrqy9ppwwjnkjgGBb&ust=1727716405237000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDWpKnT6IgDFQAAAAAdAAAAABAQ">
+<img align="center" alt="Coding" width="900" height="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Q9tH5u1MrarltM1I0npo1A.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmbrand&label=Profile%20views&color=0e75b6&style=flat" alt="fmbrand" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmbrand" alt="fmbrand" /></a> </p>
