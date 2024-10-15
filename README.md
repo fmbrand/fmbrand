@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **SQA and TestOps**
 
-- 📫 How to reach me **[GMAIL](faizulislam837@gmail.com)**
+- 📫 How to reach me **[GMAIL](mailto:faizulislam837@gmail.com)**
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +20,7 @@
 </p>
 
 <!--- -- Moving Logos --- -->
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40"> -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"> -->
