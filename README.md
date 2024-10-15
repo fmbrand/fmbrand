@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQA and TestOps**
 
-- 📫 How to reach me **faizulislam837@gmail.com**
+- 📫 How to reach me **[GMAIL](faizulislam837@gmail.com)**
 
 
 <h3 align="left">Connect with me:</h3>
