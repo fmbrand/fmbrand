@@ -22,7 +22,7 @@
 <!--- -- Moving Logos --- -->
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40">
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"> -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="40"> -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="40"> -->
