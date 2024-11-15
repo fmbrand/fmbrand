@@ -63,7 +63,11 @@
       </picture>
     </td>
     <td style="width: 33.33%; text-align: center;">
-      ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fmbrand&theme=radical)
+     <!-- Dark mode -->
+     <picture>
+       <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=fmbrand&theme=radical" media="(prefers-color-scheme: dark)" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmbrand&theme=default" alt="GitHub Streak Stats" />
+    </picture>
 <!--       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fmbrand&theme=radical">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmbrand&theme=default" alt="GitHub Streak Stats" />
