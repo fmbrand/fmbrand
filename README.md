@@ -114,7 +114,7 @@ I'm passionate about bringing **Artificial Intelligence into software testing** 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fmbrand&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fmbrand&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmbrand&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -123,7 +123,11 @@ I'm passionate about bringing **Artificial Intelligence into software testing** 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fmbrand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmbrand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=fmbrand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </p>
 
 ---
