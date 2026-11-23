@@ -22,20 +22,13 @@
 
 I'm a **Software Quality Assurance Engineer** from **Bangladesh 🇧🇩** and an **AI enthusiast 🤖**, focused on delivering reliable, user-friendly software through structured testing and smart automation. I believe quality is not a phase — it's a culture built into every step of development — and I'm excited about how AI is reshaping the way we test.
 
-```yaml
-name: Faizul Islam Fahim
-role: SQA Engineer
-location: Bangladesh
-focus:
-  - Manual & Exploratory Testing
-  - Test Automation (Web & API)
-  - Performance Testing
-  - Bug Tracking & Reporting
-  - AI-Assisted Testing
-currently_learning: [TestOps, AI in QA, Prompt Engineering]
-ask_me_about: [SQA, Test Strategy, TestOps, AI Tools for QA]
-motto: "Quality is never an accident."
-```
+- 💼 **3.5+ years** of professional experience in manual and automated software testing
+- 🏢 Tested products across **ERP, e-commerce, CMS, web and mobile** applications
+- 🎯 Focus: **Manual & Exploratory · Web & API Automation · Performance · AI-Assisted Testing**
+- 🌱 Currently learning **TestOps, AI in QA and Prompt Engineering**
+- 💬 Ask me about **SQA, Test Strategy, TestOps and AI tools for QA**
+- 📫 Reach me at **[faizulislam837@gmail.com](mailto:faizulislam837@gmail.com)**
+- ⚡ Motto: *"Quality is never an accident."*
 
 ---
 
