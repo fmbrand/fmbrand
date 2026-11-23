@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2C9AB7&center=true&vCenter=true&width=620&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9E;Manual+%26+Automation+Testing;API+%7C+Performance+%7C+UI+Testing;Currently+exploring+TestOps+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2C9AB7&center=true&vCenter=true&width=620&lines=Breaking+things+so+users+don't+have+to+%F0%9F%90%9E;Manual+%26+Automation+Testing;API+%7C+Performance+%7C+UI+Testing;AI+Enthusiast+%7C+AI-Powered+Testing+%F0%9F%A4%96;Currently+exploring+TestOps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Quality Assurance Engineer** from **Bangladesh 🇧🇩**, focused on delivering reliable, user-friendly software through structured testing and smart automation. I believe quality is not a phase — it's a culture built into every step of development.
+I'm a **Software Quality Assurance Engineer** from **Bangladesh 🇧🇩** and an **AI enthusiast 🤖**, focused on delivering reliable, user-friendly software through structured testing and smart automation. I believe quality is not a phase — it's a culture built into every step of development — and I'm excited about how AI is reshaping the way we test.
 
 ```yaml
 name: Faizul Islam Fahim
@@ -31,8 +31,9 @@ focus:
   - Test Automation (Web & API)
   - Performance Testing
   - Bug Tracking & Reporting
-currently_learning: TestOps
-ask_me_about: [SQA, Test Strategy, TestOps]
+  - AI-Assisted Testing
+currently_learning: [TestOps, AI in QA, Prompt Engineering]
+ask_me_about: [SQA, Test Strategy, TestOps, AI Tools for QA]
 motto: "Quality is never an accident."
 ```
 
@@ -49,6 +50,19 @@ motto: "Quality is never an accident."
 | ⚡ **Performance** | Load and stress testing to find bottlenecks before users do |
 | 🐞 **Defect Management** | Clear, reproducible bug reports and full defect life-cycle tracking |
 | 🔄 **CI / TestOps** | Integrating test suites into CI/CD pipelines for continuous quality |
+| 🤖 **AI-Assisted QA** | Using AI to generate test cases, test data and automation scripts faster |
+
+---
+
+## 🤖 AI × Quality Assurance
+
+I'm passionate about bringing **Artificial Intelligence into software testing** — making QA smarter, faster and more efficient.
+
+- 🧠 **AI-generated test cases** — turning requirements and user stories into test scenarios with LLMs
+- ✍️ **Prompt engineering for QA** — crafting prompts that produce reliable test data, edge cases and bug reports
+- ⚙️ **AI-assisted automation** — speeding up script writing and debugging with AI coding assistants
+- 🔍 **Testing AI products** — exploring how to validate LLM-based features (accuracy, bias, hallucination, consistency)
+- 📚 **Always learning** — following the latest in AI agents, MCP and self-healing test automation
 
 ---
 
@@ -72,6 +86,16 @@ motto: "Quality is never an accident."
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**AI Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 **Management, CI/CD & Collaboration**
@@ -111,11 +135,12 @@ motto: "Quality is never an accident."
 - ✅ **Prevent, don't just detect** — get involved early in requirements and design.
 - ✅ **Automate the repetitive, explore the unknown** — let scripts handle regression, let humans find the surprises.
 - ✅ **Clear reports, faster fixes** — a good bug report is half the solution.
+- ✅ **AI is a teammate, not a replacement** — use AI to amplify a tester's critical thinking, never to skip it.
 
 ---
 
 <p align="center">
-  <b>🤝 Open to collaboration on QA, automation and TestOps projects.</b><br/>
+  <b>🤝 Open to collaboration on QA, automation, TestOps and AI-powered testing projects.</b><br/>
   <i>Let's build software people can trust.</i>
 </p>
 
