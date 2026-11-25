@@ -112,7 +112,7 @@ I'm passionate about bringing **Artificial Intelligence into software testing** 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fmbrand&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fmbrand&hide_border=true&theme=tokyonight&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
